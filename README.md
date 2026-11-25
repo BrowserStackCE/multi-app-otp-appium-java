@@ -6,8 +6,6 @@ Appium (Java), TestNG and no BrowserStack SDK. A typical use case is a banking a
 an OTP from a separate soft-token / authenticator app.
 
 The test shows how to:
->>>>>>> placeholder
-
 - The **primary app** (SecureBank Demo, `com.example.securebank`) is installed with `appium:app`.
 - The **secondary app** (SecureToken Demo, `com.example.securetoken`) is pre-installed alongside it
   with `appium:otherApps`.
